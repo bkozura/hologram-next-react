@@ -1,0 +1,12 @@
+/* - - - - - Quick Custom CSS - - - - - */
+
+
+#GetInTouch form svg{
+ position:relative;
+ top:-10px;
+}
+.react-reveal{
+  position:absolute;
+  top:0;
+  right:0;
+}
